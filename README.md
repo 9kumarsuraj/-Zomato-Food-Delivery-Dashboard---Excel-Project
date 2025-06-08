@@ -1,5 +1,5 @@
-# -Zomato-Food-Delivery-Dashboard---Excel-Project
-# Data-Driven Insights |  Geo-Sales Analysis |  Customer & Payment Behavior |  Business Intelligence in Excel <br />
+# Zomato-Food-Delivery-Dashboard---Excel-Project
+<h4> Data-Driven Insights |  Geo-Sales Analysis |  Customer & Payment Behavior |  Business Intelligence in Excel <br /> </h5>
 This project presents a professional-grade, interactive Excel dashboard developed to analyze Zomato’s food delivery business performance across multiple dimensions — including geography, time, customer behavior, and payment trends. Designed with advanced Excel functionalities, this project simulates real-world business intelligence reporting used in food tech and e-commerce industries.  
 Goal: Transform raw data into actionable insights for strategic decision-making using Excel’s powerful data analysis and visualization capabilities.
 
@@ -16,13 +16,13 @@ Goal: Transform raw data into actionable insights for strategic decision-making 
 
 # Why This Project Stands Out
  <h3> Business-Ready Dashboard  </h3>
-   Crafted to simulate corporate BI reporting used by operations, marketing, and CX teams. <br />
+      Crafted to simulate corporate BI reporting used by operations, marketing, and CX teams. <br />
  <h3> Professional Visual Design </h3>
-   Modern layout with intuitive slicers, consistent color coding, and easy navigation. <br />
+      Modern layout with intuitive slicers, consistent color coding, and easy navigation. <br />
  <h3> Advanced Excel Techniques </h3>
-   Utilizes Pivot Tables, Slicers, DAX-style calculations, custom formatting, and interactive filters. <br />
+      Utilizes Pivot Tables, Slicers, DAX-style calculations, custom formatting, and interactive filters. <br />
  <h3> Multi-Dimensional Analysis </h3> 
-   Drill down into city/state performance, time-based trends, and customer behavior effortlessly. <br />
+      Drill down into city/state performance, time-based trends, and customer behavior effortlessly. <br />
 
 # Project Highlights
  <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
@@ -75,5 +75,16 @@ Goal: Transform raw data into actionable insights for strategic decision-making 
 LinkedIn: https://www.linkedin.com/in/suraj-kumar-785133243/ <br />
 Email: 9kumarsuraj@gmail.com
 
+<ul>
+  <li>₹19.07M Total Sales visualized with dynamic charts and filters</li>
+  <li>₹1,579.12 Avg. Order Value reveals customer spending trends</li>
+  <li>49.58 Mins Avg. Delivery Time indicates logistical performance</li>
+  <li>3.00 Avg. Customer Rating offers a pulse on customer satisfaction</li>
+  <li>Top Cities & States driving revenue, with sales heatmaps</li>
+  <li>Promo Code & Free Delivery Analysis shows impact on order volumes</li>
+  <li>Restaurant Type Performance (Bakery, Café, Casual Dining, etc.)</li>
+  <li>Payment Method Trends including tip amount behavior</li>
+  <li>Monthly Sales Patterns highlight seasonal trends and dips</li>
+</ul>
 
 
