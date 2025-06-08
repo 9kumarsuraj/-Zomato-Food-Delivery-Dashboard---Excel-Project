@@ -18,13 +18,14 @@ Goal: Transform raw data into actionable insights for strategic decision-making 
 
 # Why This Project Stands Out
  <h3> Business-Ready Dashboard  </h3>
-      Crafted to simulate corporate BI reporting used by operations, marketing, and CX teams. <br />
+ <ul>
+     <li> Crafted to simulate corporate BI reporting used by operations, marketing, and CX teams. <br /> </li> </ul>
  <h3> Professional Visual Design </h3>
-      Modern layout with intuitive slicers, consistent color coding, and easy navigation. <br />
+    <ul> <li> Modern layout with intuitive slicers, consistent color coding, and easy navigation. <br /> </li> </ul>
  <h3> Advanced Excel Techniques </h3>
-      Utilizes Pivot Tables, Slicers, DAX-style calculations, custom formatting, and interactive filters. <br />
+    <ul> <li> Utilizes Pivot Tables, Slicers, DAX-style calculations, custom formatting, and interactive filters. <br /> </li> </ul>
  <h3> Multi-Dimensional Analysis </h3> 
-      Drill down into city/state performance, time-based trends, and customer behavior effortlessly. <br />
+    <ul> <li> Drill down into city/state performance, time-based trends, and customer behavior effortlessly. <br /> </li> </ul>
 
 # Project Highlights
  <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
@@ -64,19 +65,19 @@ Goal: Transform raw data into actionable insights for strategic decision-making 
 
 
 # Repository Structure
- Raw Data: [Contains the raw data.](https://github.com/9kumarsuraj/-Zomato-Food-Delivery-Dashboard---Excel-Project/blob/main/zomato_data_raw.xlsx) <br />
- Dashboard: [Excel dashboard of the project.](https://github.com/9kumarsuraj/-Zomato-Food-Delivery-Dashboard---Excel-Project/blob/main/Zomato%20Data%20%20Analysis.xlsx) <br />
- Dashboard screenshot: [ Contains screenshot of the dashboard for easy previwe.](https://github.com/9kumarsuraj/-Zomato-Food-Delivery-Dashboard---Excel-Project/blob/main/Dashboard_image.png)  <br />
- Business Questions: [Contains bussiness problems and requirements.](https://github.com/9kumarsuraj/-Zomato-Food-Delivery-Dashboard---Excel-Project/blob/main/Bussiness%20Questions%20for%20Zomato%20food%20delivery%20data%20analysis.pdf) <br />
- Bussiness Insights and Solutions: [Contains business insights, overviwe and future actions for decisions.](https://github.com/9kumarsuraj/-Zomato-Food-Delivery-Dashboard---Excel-Project/blob/main/Executive%20Summary%20Zomato%20Food%20Delivery%20Dashboard.pdf) <br />
+<ul> <li> Raw Data: [Contains the raw data.](https://github.com/9kumarsuraj/-Zomato-Food-Delivery-Dashboard---Excel-Project/blob/main/zomato_data_raw.xlsx) <br /> </li>
+ Dashboard: [Excel dashboard of the project.](https://github.com/9kumarsuraj/-Zomato-Food-Delivery-Dashboard---Excel-Project/blob/main/Zomato%20Data%20%20Analysis.xlsx) <br /> </li>
+ Dashboard screenshot: [ Contains screenshot of the dashboard for easy previwe.](https://github.com/9kumarsuraj/-Zomato-Food-Delivery-Dashboard---Excel-Project/blob/main/Dashboard_image.png)  <br /> </li>
+ Business Questions: [Contains bussiness problems and requirements.](https://github.com/9kumarsuraj/-Zomato-Food-Delivery-Dashboard---Excel-Project/blob/main/Bussiness%20Questions%20for%20Zomato%20food%20delivery%20data%20analysis.pdf) <br /> </li>
+ Bussiness Insights and Solutions: [Contains business insights, overviwe and future actions for decisions.](https://github.com/9kumarsuraj/-Zomato-Food-Delivery-Dashboard---Excel-Project/blob/main/Executive%20Summary%20Zomato%20Food%20Delivery%20Dashboard.pdf) <br /> </li> </ul>
 
  # Feedback & Collaboration
-  Have suggestions or ideas to improve?
+  Have suggestions or ideas to improve? <br />
   Open an issue or fork this project and contribute. I’m always open to feedback, improvements, or collaboration on data-driven projects!
 
 # Let’s Connect
-LinkedIn: https://www.linkedin.com/in/suraj-kumar-785133243/ <br />
-Email: 9kumarsuraj@gmail.com
+<ul> <li> LinkedIn: https://www.linkedin.com/in/suraj-kumar-785133243/ <br /> </li>
+Email: 9kumarsuraj@gmail.com </li> </ul>
 
 
 
