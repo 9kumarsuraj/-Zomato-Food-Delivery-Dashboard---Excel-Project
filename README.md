@@ -25,7 +25,7 @@ Goal: Transform raw data into actionable insights for strategic decision-making 
    Drill down into city/state performance, time-based trends, and customer behavior effortlessly. <br />
 
 # Project Highlights
-    <h3>  Feature	                        Description </h3>
+    <h3>  Feature	</h3>                  <h3>    Description </h3>
  Month-wise Trend	                  Visualizes 12-month sales performance <br />
  City & State Analysis	            Top 5 performers shown with charts <br />
  Promo vs Orders	                  Tracks order impact of promo codes <br />
