@@ -84,5 +84,4 @@ Goal: Transform raw data into actionable insights for strategic decision-making 
  <li> Email: <a href="mailto:9kumarsuraj@gmail.com">9kumarsuraj@gmail.com</a>
  </li> </ul>
 
-# Made By
-<h3> Suraj Kumar </h3>
+<h3>Made By: Suraj Kumar </h3>
