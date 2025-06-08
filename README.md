@@ -16,6 +16,10 @@ Goal: Transform raw data into actionable insights for strategic decision-making 
   <li>Monthly Sales Patterns highlight seasonal trends and dips</li>
 </ul>
 
+# Dashboard Previwe
+![Dashboard_image](https://github.com/user-attachments/assets/6dfd27ff-3dcf-4de8-b524-d51c25df7655)
+
+
 # Why This Project Stands Out
  <h3> Business-Ready Dashboard  </h3>
  <ul>
@@ -80,5 +84,5 @@ Goal: Transform raw data into actionable insights for strategic decision-making 
  <li> Email: <a href="mailto:9kumarsuraj@gmail.com">9kumarsuraj@gmail.com</a>
  </li> </ul>
 
-
-
+# Made By
+<h3> Suraj Kumar </h3>
