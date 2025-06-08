@@ -25,29 +25,7 @@ Goal: Transform raw data into actionable insights for strategic decision-making 
    Drill down into city/state performance, time-based trends, and customer behavior effortlessly. <br />
 
 # Project Highlights
-    <h3>  Feature	</h3>                  <h3>    Description </h3>
- Month-wise Trend	                  Visualizes 12-month sales performance <br />
- City & State Analysis	            Top 5 performers shown with charts <br />
- Promo vs Orders	                  Tracks order impact of promo codes <br />
- Free Delivery Impact	              Compares sales/orders with and without delivery fee <br />
- Payment Method Analysis	          Sales and tips by Cash, UPI, Cards, Net Banking <br />
- Restaurant Insights	              Performance by restaurant types like Café, Bakery, etc. <br />
-
-# Repository Structure
- Raw Data: [Contains the raw data.](https://github.com/9kumarsuraj/-Zomato-Food-Delivery-Dashboard---Excel-Project/blob/main/zomato_data_raw.xlsx) <br />
- Dashboard: [Excel dashboard of the project.](https://github.com/9kumarsuraj/-Zomato-Food-Delivery-Dashboard---Excel-Project/blob/main/Zomato%20Data%20%20Analysis.xlsx) <br />
- Dashboard screenshot: [ Contains screenshot of the dashboard for easy previwe.](https://github.com/9kumarsuraj/-Zomato-Food-Delivery-Dashboard---Excel-Project/blob/main/Dashboard_image.png)  <br />
- Business Questions: [Contains bussiness problems and requirements.](https://github.com/9kumarsuraj/-Zomato-Food-Delivery-Dashboard---Excel-Project/blob/main/Bussiness%20Questions%20for%20Zomato%20food%20delivery%20data%20analysis.pdf) <br />
- Bussiness Insights and Solutions: [Contains business insights, overviwe and future actions for decisions.](https://github.com/9kumarsuraj/-Zomato-Food-Delivery-Dashboard---Excel-Project/blob/main/Executive%20Summary%20Zomato%20Food%20Delivery%20Dashboard.pdf) <br />
-
- # Feedback & Collaboration
-    Have suggestions or ideas to improve?
-    Open an issue or fork this project and contribute. I’m always open to feedback, improvements, or collaboration on data-driven projects!
-# # Let’s Connect
-LinkedIn: https://www.linkedin.com/in/suraj-kumar-785133243/
-Email: 9kumarsuraj@gmail.com
-
-<table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+ <table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
   <thead>
     <tr style="background-color: #f2f2f2;">
       <th><h3>Feature</h3></th>
@@ -81,4 +59,21 @@ Email: 9kumarsuraj@gmail.com
     </tr>
   </tbody>
 </table>
+
+
+# Repository Structure
+ Raw Data: [Contains the raw data.](https://github.com/9kumarsuraj/-Zomato-Food-Delivery-Dashboard---Excel-Project/blob/main/zomato_data_raw.xlsx) <br />
+ Dashboard: [Excel dashboard of the project.](https://github.com/9kumarsuraj/-Zomato-Food-Delivery-Dashboard---Excel-Project/blob/main/Zomato%20Data%20%20Analysis.xlsx) <br />
+ Dashboard screenshot: [ Contains screenshot of the dashboard for easy previwe.](https://github.com/9kumarsuraj/-Zomato-Food-Delivery-Dashboard---Excel-Project/blob/main/Dashboard_image.png)  <br />
+ Business Questions: [Contains bussiness problems and requirements.](https://github.com/9kumarsuraj/-Zomato-Food-Delivery-Dashboard---Excel-Project/blob/main/Bussiness%20Questions%20for%20Zomato%20food%20delivery%20data%20analysis.pdf) <br />
+ Bussiness Insights and Solutions: [Contains business insights, overviwe and future actions for decisions.](https://github.com/9kumarsuraj/-Zomato-Food-Delivery-Dashboard---Excel-Project/blob/main/Executive%20Summary%20Zomato%20Food%20Delivery%20Dashboard.pdf) <br />
+
+ # Feedback & Collaboration
+    Have suggestions or ideas to improve?
+    Open an issue or fork this project and contribute. I’m always open to feedback, improvements, or collaboration on data-driven projects!
+# # Let’s Connect
+LinkedIn: https://www.linkedin.com/in/suraj-kumar-785133243/ <br />
+Email: 9kumarsuraj@gmail.com
+
+
 
