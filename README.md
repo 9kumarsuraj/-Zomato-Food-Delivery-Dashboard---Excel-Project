@@ -17,11 +17,11 @@ Goal: Transform raw data into actionable insights for strategic decision-making 
 # Why This Project Stands Out
  <h3> Business-Ready Dashboard  </h3>
    Crafted to simulate corporate BI reporting used by operations, marketing, and CX teams. <br />
- # Professional Visual Design <br />
+ <h3> Professional Visual Design </h3>
    Modern layout with intuitive slicers, consistent color coding, and easy navigation. <br />
- # Advanced Excel Techniques <br />
+ <h3> Advanced Excel Techniques </h3>
    Utilizes Pivot Tables, Slicers, DAX-style calculations, custom formatting, and interactive filters. <br />
- # Multi-Dimensional Analysis <br />
+ <h3> Multi-Dimensional Analysis </h3> 
    Drill down into city/state performance, time-based trends, and customer behavior effortlessly. <br />
 
 # Project Highlights
