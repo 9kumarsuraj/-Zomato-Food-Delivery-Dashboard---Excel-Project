@@ -4,15 +4,17 @@ This project presents a professional-grade, interactive Excel dashboard develope
 Goal: Transform raw data into actionable insights for strategic decision-making using Excel’s powerful data analysis and visualization capabilities.
 
 # Key Insights & Features
- ₹19.07M Total Sales visualized with dynamic charts and filters <br />
- ₹1,579.12 Avg. Order Value reveals customer spending trends <br />
- 49.58 Mins Avg. Delivery Time indicates logistical performance <br />
- 3.00 Avg. Customer Rating offers a pulse on customer satisfaction <br />
- Top Cities & States driving revenue, with sales heatmaps <br />
- Promo Code & Free Delivery Analysis shows impact on order volumes <br />
- Restaurant Type Performance (Bakery, Café, Casual Dining, etc.) <br />
- Payment Method Trends including tip amount behavior <br />
- Monthly Sales Patterns highlight seasonal trends and dips <br />
+<ul>
+  <li>₹19.07M Total Sales visualized with dynamic charts and filters</li>
+  <li>₹1,579.12 Avg. Order Value reveals customer spending trends</li>
+  <li>49.58 Mins Avg. Delivery Time indicates logistical performance</li>
+  <li>3.00 Avg. Customer Rating offers a pulse on customer satisfaction</li>
+  <li>Top Cities & States driving revenue, with sales heatmaps</li>
+  <li>Promo Code & Free Delivery Analysis shows impact on order volumes</li>
+  <li>Restaurant Type Performance (Bakery, Café, Casual Dining, etc.)</li>
+  <li>Payment Method Trends including tip amount behavior</li>
+  <li>Monthly Sales Patterns highlight seasonal trends and dips</li>
+</ul>
 
 # Why This Project Stands Out
  <h3> Business-Ready Dashboard  </h3>
@@ -75,16 +77,5 @@ Goal: Transform raw data into actionable insights for strategic decision-making 
 LinkedIn: https://www.linkedin.com/in/suraj-kumar-785133243/ <br />
 Email: 9kumarsuraj@gmail.com
 
-<ul>
-  <li>₹19.07M Total Sales visualized with dynamic charts and filters</li>
-  <li>₹1,579.12 Avg. Order Value reveals customer spending trends</li>
-  <li>49.58 Mins Avg. Delivery Time indicates logistical performance</li>
-  <li>3.00 Avg. Customer Rating offers a pulse on customer satisfaction</li>
-  <li>Top Cities & States driving revenue, with sales heatmaps</li>
-  <li>Promo Code & Free Delivery Analysis shows impact on order volumes</li>
-  <li>Restaurant Type Performance (Bakery, Café, Casual Dining, etc.)</li>
-  <li>Payment Method Trends including tip amount behavior</li>
-  <li>Monthly Sales Patterns highlight seasonal trends and dips</li>
-</ul>
 
 
