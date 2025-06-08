@@ -46,3 +46,39 @@ Goal: Transform raw data into actionable insights for strategic decision-making 
 # # Let’s Connect
 LinkedIn: https://www.linkedin.com/in/suraj-kumar-785133243/
 Email: 9kumarsuraj@gmail.com
+
+<table border="1" cellpadding="10" cellspacing="0" style="border-collapse: collapse; width: 100%;">
+  <thead>
+    <tr style="background-color: #f2f2f2;">
+      <th><h3>Feature</h3></th>
+      <th><h3>Description</h3></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Month-wise Trend</td>
+      <td>Visualizes 12-month sales performance</td>
+    </tr>
+    <tr>
+      <td>City & State Analysis</td>
+      <td>Top 5 performers shown with charts</td>
+    </tr>
+    <tr>
+      <td>Promo vs Orders</td>
+      <td>Tracks order impact of promo codes</td>
+    </tr>
+    <tr>
+      <td>Free Delivery Impact</td>
+      <td>Compares sales/orders with and without delivery fee</td>
+    </tr>
+    <tr>
+      <td>Payment Method Analysis</td>
+      <td>Sales and tips by Cash, UPI, Cards, Net Banking</td>
+    </tr>
+    <tr>
+      <td>Restaurant Insights</td>
+      <td>Performance by restaurant types like Café, Bakery, etc.</td>
+    </tr>
+  </tbody>
+</table>
+
