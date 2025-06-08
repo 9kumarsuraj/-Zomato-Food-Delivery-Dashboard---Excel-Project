@@ -15,7 +15,7 @@ Goal: Transform raw data into actionable insights for strategic decision-making 
  Monthly Sales Patterns highlight seasonal trends and dips <br />
 
 # Why This Project Stands Out
- # Business-Ready Dashboard <br />
+ <h3> Business-Ready Dashboard  </h3>
    Crafted to simulate corporate BI reporting used by operations, marketing, and CX teams. <br />
  # Professional Visual Design <br />
    Modern layout with intuitive slicers, consistent color coding, and easy navigation. <br />
@@ -25,7 +25,7 @@ Goal: Transform raw data into actionable insights for strategic decision-making 
    Drill down into city/state performance, time-based trends, and customer behavior effortlessly. <br />
 
 # Project Highlights
-      Feature	<br />                         Description <br /> 
+    <h3>  Feature	                        Description </h3>
  Month-wise Trend	                  Visualizes 12-month sales performance <br />
  City & State Analysis	            Top 5 performers shown with charts <br />
  Promo vs Orders	                  Tracks order impact of promo codes <br />
