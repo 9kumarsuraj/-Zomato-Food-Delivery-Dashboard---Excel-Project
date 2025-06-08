@@ -71,8 +71,8 @@ Goal: Transform raw data into actionable insights for strategic decision-making 
  Bussiness Insights and Solutions: [Contains business insights, overviwe and future actions for decisions.](https://github.com/9kumarsuraj/-Zomato-Food-Delivery-Dashboard---Excel-Project/blob/main/Executive%20Summary%20Zomato%20Food%20Delivery%20Dashboard.pdf) <br />
 
  # Feedback & Collaboration
-    Have suggestions or ideas to improve?
-    Open an issue or fork this project and contribute. I’m always open to feedback, improvements, or collaboration on data-driven projects!
+  Have suggestions or ideas to improve?
+  Open an issue or fork this project and contribute. I’m always open to feedback, improvements, or collaboration on data-driven projects!
 
 # Let’s Connect
 LinkedIn: https://www.linkedin.com/in/suraj-kumar-785133243/ <br />
