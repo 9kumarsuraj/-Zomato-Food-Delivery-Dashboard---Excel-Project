@@ -1,5 +1,5 @@
 # -Zomato-Food-Delivery-Dashboard---Excel-Project
-# # Data-Driven Insights |  Geo-Sales Analysis |  Customer & Payment Behavior |  Business Intelligence in Excel <br />
+# Data-Driven Insights |  Geo-Sales Analysis |  Customer & Payment Behavior |  Business Intelligence in Excel <br />
 This project presents a professional-grade, interactive Excel dashboard developed to analyze Zomato’s food delivery business performance across multiple dimensions — including geography, time, customer behavior, and payment trends. Designed with advanced Excel functionalities, this project simulates real-world business intelligence reporting used in food tech and e-commerce industries.  
 Goal: Transform raw data into actionable insights for strategic decision-making using Excel’s powerful data analysis and visualization capabilities.
 
@@ -15,13 +15,13 @@ Goal: Transform raw data into actionable insights for strategic decision-making 
  Monthly Sales Patterns highlight seasonal trends and dips <br />
 
 # Why This Project Stands Out
- # # Business-Ready Dashboard <br />
+ # Business-Ready Dashboard <br />
    Crafted to simulate corporate BI reporting used by operations, marketing, and CX teams. <br />
- # # Professional Visual Design <br />
+ # Professional Visual Design <br />
    Modern layout with intuitive slicers, consistent color coding, and easy navigation. <br />
- # # Advanced Excel Techniques <br />
+ # Advanced Excel Techniques <br />
    Utilizes Pivot Tables, Slicers, DAX-style calculations, custom formatting, and interactive filters. <br />
- # # Multi-Dimensional Analysis <br />
+ # Multi-Dimensional Analysis <br />
    Drill down into city/state performance, time-based trends, and customer behavior effortlessly. <br />
 
 # Project Highlights
