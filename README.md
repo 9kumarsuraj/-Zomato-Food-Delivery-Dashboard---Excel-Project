@@ -77,7 +77,7 @@ Goal: Transform raw data into actionable insights for strategic decision-making 
 
 # Let’s Connect
 <ul> <li> LinkedIn: https://www.linkedin.com/in/suraj-kumar-785133243/ <br /> </li>
-Email: 9kumarsuraj@gmail.com </li> </ul>
+ <li> Email: 9kumarsuraj@gmail.com </li> </ul>
 
 
 
