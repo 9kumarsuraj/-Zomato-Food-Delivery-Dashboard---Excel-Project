@@ -69,11 +69,11 @@ Goal: Transform raw data into actionable insights for strategic decision-making 
 
 
 # Repository Structure
- Raw Data: [Contains the raw data.](https://github.com/9kumarsuraj/-Zomato-Food-Delivery-Dashboard---Excel-Project/blob/main/zomato_data_raw.xlsx) <br />
- Dashboard: [Excel dashboard of the project.](https://github.com/9kumarsuraj/-Zomato-Food-Delivery-Dashboard---Excel-Project/blob/main/Zomato%20Data%20%20Analysis.xlsx) <br />
- Dashboard screenshot: [ Contains screenshot of the dashboard for easy previwe.](https://github.com/9kumarsuraj/-Zomato-Food-Delivery-Dashboard---Excel-Project/blob/main/Dashboard_image.png)  <br />
- Business Questions: [Contains bussiness problems and requirements.](https://github.com/9kumarsuraj/-Zomato-Food-Delivery-Dashboard---Excel-Project/blob/main/Bussiness%20Questions%20for%20Zomato%20food%20delivery%20data%20analysis.pdf) <br />
- Bussiness Insights and Solutions: [Contains business insights, overviwe and future actions for decisions.](https://github.com/9kumarsuraj/-Zomato-Food-Delivery-Dashboard---Excel-Project/blob/main/Executive%20Summary%20Zomato%20Food%20Delivery%20Dashboard.pdf) <br /> 
+ Raw Data: <a href=https://github.com/9kumarsuraj/-Zomato-Food-Delivery-Dashboard---Excel-Project/blob/main/zomato_data_raw.xlsx> [Click here 👆] </a> <br />
+ Dashboard: <a href=https://github.com/9kumarsuraj/-Zomato-Food-Delivery-Dashboard---Excel-Project/blob/main/Zomato%20Data%20%20Analysis.xlsx> [Click here 👆] </a> <br />
+ Dashboard screenshot: <a href=https://github.com/9kumarsuraj/-Zomato-Food-Delivery-Dashboard---Excel-Project/blob/main/Dashboard_image.png> [Click here 👆] </a>  <br />
+ Business Questions: <a href=https://github.com/9kumarsuraj/-Zomato-Food-Delivery-Dashboard---Excel-Project/blob/main/Bussiness%20Questions%20for%20Zomato%20food%20delivery%20data%20analysis.pdf> [Click here 👆] </a> <br />
+ Bussiness Insights and Solutions: <a href=https://github.com/9kumarsuraj/-Zomato-Food-Delivery-Dashboard---Excel-Project/blob/main/Executive%20Summary%20Zomato%20Food%20Delivery%20Dashboard.pdf> [Click here 👆] </a> <br /> 
 
  # Feedback & Collaboration
   Have suggestions or ideas to improve? <br />
